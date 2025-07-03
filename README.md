@@ -12,7 +12,7 @@ This advanced dashboard project adopts a **consulting mindset**, simulating a re
 It emphasizes **data-driven decision-making** by combining **financial KPIs, category analysis, 
 SKU turnover, and cost efficiency**.
 
-- 🧾 Dataset: 47,000+ records
+- 🧾 Dataset: 2,00,000+ records
 - 📌 Focus: Net Revenue, Profitability, Category Mix, SKU Turnover, PVM Analysis,Pareto Analysis
 - 📈 Outcome: Strategic insights for sales optimization and margin improvement
 
